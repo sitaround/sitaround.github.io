@@ -51,9 +51,6 @@ author:
   location         : "Yuseong-gu, Daejeon, Republic of Korea"
   email            : "sitaround91@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:sitaround91@gmail.com
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sitaround"
