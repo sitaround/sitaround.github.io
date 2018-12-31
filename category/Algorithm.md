@@ -1,4 +1,5 @@
 ---
 layout: category
-title: Algorithm
+title: Algorithm/JAVA
+permalink: /Algo/JAVA
 ---
