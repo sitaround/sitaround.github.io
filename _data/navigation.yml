@@ -1,3 +1,5 @@
 main:
-  - title: go to github
+  - title: github
     url: https://github.com/sitaround
+  - title: Category
+    url: /categories/
