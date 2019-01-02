@@ -2,8 +2,7 @@
 layout: post
 title: 첫 번째 포스팅
 date: 2018-12-28 21:00:00 -0400
-author: true
-categories: [dailylife]
+categories: /dailylife
 ---
 
 ### Post test v_1_0
