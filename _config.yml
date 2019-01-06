@@ -1,10 +1,10 @@
 ﻿remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark"
 
-locale                   : "en-US"
+locale                   : "ko"
 title                    : "낚시하는 개발자"
 title_separator          : "-"
-name                     : "DevFishing"
+name                     : ""
 description              : "이대로 살면 안 되겠다 싶어서 만드는 내 블로그"
 url                      : "https://sitaround.github.io"
 baseurl                  : 
@@ -26,15 +26,6 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/sitaround"
 
-# Site footer
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/sitaround"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/sitaround"
 
 # Reading Files
 include:
