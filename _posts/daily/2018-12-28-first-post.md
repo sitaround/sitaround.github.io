@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: 첫 번째 포스팅
 date: 2018-12-28 21:00:00 -0400
 categories: /dailylife
